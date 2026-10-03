@@ -211,5 +211,6 @@ If you use MHub / the MobileHub middleware in academic work, please cite the LAC
 
 ## License & Contribution Guidelines
 
-- **License:** Not yet specified — `LICENSE` currently contains a placeholder (`TODO: Add your license here.`). Add the appropriate license text before distributing or publishing this package.
-- **Contributions:** No formal contribution guide is defined yet. To contribute, open an issue describing the change, fork the repository, and submit a pull request against the native (`android/`) or Dart (`lib/`) code as appropriate; keep changes to the bundled native jars (`android/libs/`) and generated platform scaffolding (`example/android`, `example/ios`) to a minimum.
+No license file is currently included in this repository; the code is not licensed for reuse or redistribution until a license is added. Contact the repository owner (EnQyMo) before reusing this code.
+
+Contributions: this repository does not currently define a formal contribution process. If you'd like to contribute, please open an issue first to discuss the proposed change before submitting a pull request.
